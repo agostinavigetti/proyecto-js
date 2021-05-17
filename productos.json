@@ -1,0 +1,111 @@
+{
+    "status": "success",
+    "items": [{
+            "id": 1,
+            "title": "Rayban",
+            "price": 10000,
+            "image": "images/img1.png",
+            "category": "rayban"
+        },
+        {
+            "id": 2,
+            "title": "Sun by D&G",
+            "price": 10400,
+            "image": "images/img2.png",
+            "category": "dolce"
+        },
+        {
+            "id": 3,
+            "title": "Fire by Dior",
+            "price": 7500,
+            "image": "images/img3.png",
+            "category": "dior"
+        },
+        {
+            "id": 4,
+            "title": "Sweet by D&G",
+            "price": 10999,
+            "image": "images/img4.png",
+            "category": "dolce"
+        },
+        {
+            "id": 5,
+            "title": "Jazmin by Vulk",
+            "price": 10500,
+            "image": "images/img5.jpg",
+            "category": "vulk"
+
+        },
+        {
+            "id": 6,
+            "title": "Calibre by Dior",
+            "price": 8500,
+            "image": "images/img6.png",
+            "category": "dior"
+
+        },
+        {
+            "id": 7,
+            "title": "Roles by Dior",
+            "price": 16000,
+            "image": "images/img7.png",
+            "category": "dior"
+        },
+        {
+            "id": 8,
+            "title": "Sofia by Vulk",
+            "price": 15000,
+            "image": "images/img8.png",
+            "category": "vulk"
+        },
+        {
+            "id": 9,
+            "title": "RayBan 2",
+            "price": 8000,
+            "image": "images/img13.jpg",
+            "category": "rayban"
+        },
+        {
+            "id": 10,
+            "title": "Big Bang by Armani",
+            "price": 10100,
+            "image": "images/img10.jpg",
+            "category": "armani"
+        },
+        {
+            "id": 11,
+            "title": "Date by Armani",
+            "price": 65000,
+            "image": "images/img11.jpg",
+            "category": "armani"
+        },
+        {
+            "id": 12,
+            "title": "RayBan 3",
+            "price": 11000,
+            "image": "images/img12.jpg",
+            "category": "rayban"
+        },
+        {
+            "id": 13,
+            "title": "Play by Dior",
+            "price": 10100,
+            "image": "images/img9.png",
+            "category": "dior"
+        },
+        {
+            "id": 14,
+            "title": "Clara by Vulk",
+            "price": 10400,
+            "image": "images/img14.jpg",
+            "category": "vulk"
+        },
+        {
+            "id": 15,
+            "title": "Lourdes by Vulk",
+            "price": 7500,
+            "image": "images/img15.jpg",
+            "category": "vulk"
+        }
+    ]
+}
